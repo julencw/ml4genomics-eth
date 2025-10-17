@@ -1,6 +1,6 @@
 # ML for Genomics — ETH Zürich (Autumn 2024)
 
-LaTeX source and compiled PDF of my MSc-level course notes for **Machine Learning for Genomics** at **ETH Zürich** (Autumn 2024). 
+LaTeX source and compiled PDF of my MSc-level course notes for **"Machine Learning for Genomics"** at **ETH Zürich** (Autumn 2024). 
 Notes are organized **week-by-week** and aim to provide a concise overview of methods and key concepts.
 
 ## What’s inside
