@@ -8,7 +8,7 @@ Notes are organized **week-by-week** and aim to provide a concise overview of me
 - `main.pdf` — compiled notes
 - Weekly structure (Week 1, Week 2, …) following the course timeline
 
-## Coverage (snapshot)
+## Contents
 - Molecular biology refresher (DNA, genes, TFs, epigenetics)
 - TF binding & motif models (PWM) → CNN/RNN/attention methods
 - Chromatin accessibility & histone marks; HMM/LDA; sequence→signal models
